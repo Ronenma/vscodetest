@@ -1,0 +1,31 @@
+{
+    "purorder" : [
+
+        {
+            "Eblen": "1",
+            "matnr": "MAT1",
+            "NETPR": "800"
+
+        },
+        {
+            "Eblen": "2",
+            "matnr": "MAT2",
+            "NETPR": "600"
+
+        },
+        {
+            "Eblen": "3",
+            "matnr": "MAT3",
+            "NETPR": "14000"
+
+        },
+        {
+            "Eblen": "4",
+            "matnr": "MAT4",
+            "NETPR": "5000"
+
+        }
+    ]
+       
+
+    }
