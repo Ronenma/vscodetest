@@ -9,6 +9,7 @@ sap.ui.define([
 		/**
 		 * @override
 		 */
+		
 		onInit: function(){
 				// set i18n model on view
 				var i18nModel = new ResourceModel({
