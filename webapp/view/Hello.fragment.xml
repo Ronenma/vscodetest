@@ -1,0 +1,20 @@
+<core:FragmentDefinition xmlns="sap.m"
+ xmlns:core="sap.ui.core">
+ 
+    <Dialog id="helloDialog" title="Hello ronen">
+        <Button
+               
+                icon="sap-icon://soccer"
+               
+               
+               
+            >
+                
+            </Button>
+        <beginButton>
+            
+            <Button text="Cancel" press=".onCloseDialog" />
+        </beginButton>
+    </Dialog>
+
+</core:FragmentDefinition>

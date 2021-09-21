@@ -4,25 +4,25 @@
         {
             "Eblen": "1",
             "matnr": "MAT1",
-            "NETPR": "800"
+            "NETPR": "00800.00"
 
         },
         {
             "Eblen": "2",
             "matnr": "MAT2",
-            "NETPR": "600"
+            "NETPR": "00600.00"
 
         },
         {
             "Eblen": "3",
             "matnr": "MAT3",
-            "NETPR": "14000"
+            "NETPR": "14000.00"
 
         },
         {
             "Eblen": "4",
             "matnr": "MAT4",
-            "NETPR": "5000"
+            "NETPR": "05000.00"
 
         }
     ]

@@ -1,0 +1,10 @@
+<mvc:View controllerName="ronen.test.controller.Test" 
+xmlns:mvc="sap.ui.core.mvc" 
+xmlns="sap.m"
+displayBlock="true" 
+height="100%" 
+busyIndicatorDelay="0">
+
+    <Text text="bibi is king"></Text>
+    <Button icon="sap-icon://world" iconFirst="false" text="press me!" press=".onPress"></Button>
+</mvc:View>
